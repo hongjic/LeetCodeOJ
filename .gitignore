@@ -1,7 +1,0 @@
-.classpath
-.project
-*.log
-*.iml
-.settings
-bin
-.gitignore
